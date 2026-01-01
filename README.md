@@ -1,7 +1,7 @@
 # User Input Form with Validation & Confirmation Page
 
 A simple and clean user registration form built using **HTML, CSS, and JavaScript (DOM)**.  
-The project includes required-field validation, a modern UI with an Unsplash background image, and a confirmation page that displays submitted user details with a thank-you message.
+The project includes required-field validation, a modern UI and a confirmation page that displays submitted user details with a thank-you message.
 
 ---
 
@@ -14,7 +14,7 @@ The project includes required-field validation, a modern UI with an Unsplash bac
   - Email
 - ✅ Required field validation with inline error messages
 - 🎉 Thank-you confirmation page after successful submission
-- 🖼️ Background image from Unsplash with dark overlay
+- 🖼️ Background image with dark overlay
 - 🎨 Clean, modern UI with cool color theme
 - ⚡ Pure JavaScript DOM manipulation (no libraries)
 - 📱 Responsive and beginner-friendly
@@ -28,6 +28,3 @@ The project includes required-field validation, a modern UI with an Unsplash bac
 - **JavaScript (DOM)** – Validation & page interaction  
 
 ---
-
-## 📂 Project Structure
-
